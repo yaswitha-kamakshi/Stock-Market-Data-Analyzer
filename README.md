@@ -44,6 +44,12 @@ See reports/AAPL_report.md and outputs/AAPL_processed.csv
 ![Returns](images/AAPL_returns.png)
 ![Drawdown](images/AAPL_drawdown.png)
 
+## Screenshots
+![Project Structure](docs/screenshots/01_project_structure.png)
+![Terminal Output](docs/screenshots/03_terminal_output.png)
+![Volatility Summary](docs/screenshots/07_volatility_summary.png)
+![Final Report](docs/screenshots/08_final_report.png)
+
 ## Learning Outcomes
 Time-series handling in Pandas, API integration, modular Python design, financial metrics (returns, volatility, drawdown, Sharpe), data visualization, Git/GitHub workflow.
 
@@ -52,3 +58,6 @@ SQLite storage, RSI/MACD, backtesting, alerts, multi-stock comparison.
 
 ## Disclaimer
 This project is for educational purposes only and is not financial advice. Past performance does not guarantee future results.
+
+## Username: yaswitha-kamakshi
+## E-mail: yaswithakamakshi.5pq@gmail.com
